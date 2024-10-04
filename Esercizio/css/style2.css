@@ -1,0 +1,68 @@
+body {
+  align-items: center;
+  font-family: url(../../Open_Sans/static);
+  color: #393d41;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  margin: 35px;
+}
+header {
+  background-color: black;
+}
+#intestazione {
+  font-family: url(../../Montserrat/static/Montserrat-Bold.ttf);
+  color: black;
+  line-height: 1.5;
+  font-size: 16px;
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  padding: 30px;
+}
+h1,
+h3 {
+  color: #25a2c3;
+}
+h1 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 20px;
+}
+h2 {
+  color: white;
+  font-size: 30px;
+}
+
+button {
+  background-color: #f04c2f;
+  font-family: url(../../Montserrat/static/Montserrat-Bold.ttf);
+  color: white;
+  align-items: center;
+}
+#logo {
+  size: 100px;
+  padding: 45px;
+}
+section {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#riquadro {
+  color: white;
+  background-color: #f04c2f;
+  padding: 20%;
+}
+footer {
+  color: white;
+  background-color: #25a2c3;
+  padding: 20px;
+}
+div {
+  width: 450px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-left: 2px solid #dee1e3;
+  border-right: 2px solid #dee1e3;
+  border-bottom: 2px #dee1e3;
+  border-top: 2px #dee1e3;
+}
